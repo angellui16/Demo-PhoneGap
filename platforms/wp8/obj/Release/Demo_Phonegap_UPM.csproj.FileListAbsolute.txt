@@ -1,0 +1,14 @@
+C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Bin\Release\ApplicationIcon.png
+C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Bin\Release\Background.png
+C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Bin\Release\com.autentia.demo.dll
+C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Bin\Release\com.autentia.demo.pdb
+C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Bin\Release\AppManifest.xaml
+C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Bin\Release\CordovaAppProj_Release_AnyCPU.xap
+C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\obj\Release\App.g.cs
+C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\obj\Release\cordovalib\CordovaView.g.cs
+C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\obj\Release\MainPage.g.cs
+C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\obj\Release\com.autentia.demo.g.resources
+C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\obj\Release\com.autentia.demo.dll
+C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\obj\Release\com.autentia.demo.pdb
+C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\obj\Release\XapCacheFile.xml
+C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Bin\Release\Properties\WMAppManifest.xml

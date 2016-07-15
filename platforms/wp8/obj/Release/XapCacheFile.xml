@@ -1,0 +1,26 @@
+﻿<xapCache source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Bin\Release\CordovaAppProj_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="20/02/2014 14:24:33">
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\obj\Release\com.autentia.demo.dll" archivePath="com.autentia.demo.dll" lastWriteTime="20/02/2014 14:24:32" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\config.xml" archivePath="config.xml" lastWriteTime="20/02/2014 9:30:33" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Images\appbar.back.rest.png" archivePath="Images\appbar.back.rest.png" lastWriteTime="20/02/2014 9:14:27" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Images\appbar.close.rest.png" archivePath="Images\appbar.close.rest.png" lastWriteTime="20/02/2014 9:14:27" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Images\appbar.feature.video.rest.png" archivePath="Images\appbar.feature.video.rest.png" lastWriteTime="20/02/2014 9:14:27" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Images\appbar.next.rest.png" archivePath="Images\appbar.next.rest.png" lastWriteTime="20/02/2014 9:14:27" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Images\appbar.save.rest.png" archivePath="Images\appbar.save.rest.png" lastWriteTime="20/02/2014 9:14:27" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Images\appbar.stop.rest.png" archivePath="Images\appbar.stop.rest.png" lastWriteTime="20/02/2014 9:14:27" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="20/02/2014 9:14:27" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\www\config.xml" archivePath="www\config.xml" lastWriteTime="20/02/2014 9:30:33" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\www\cordova.js" archivePath="www\cordova.js" lastWriteTime="20/02/2014 9:30:33" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\www\cordova_plugins.js" archivePath="www\cordova_plugins.js" lastWriteTime="20/02/2014 9:30:33" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\www\css\index.css" archivePath="www\css\index.css" lastWriteTime="20/02/2014 9:30:33" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\www\img\logo.png" archivePath="www\img\logo.png" lastWriteTime="20/02/2014 9:30:33" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\www\index.html" archivePath="www\index.html" lastWriteTime="20/02/2014 9:30:33" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="20/02/2014 9:30:33" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\www\plugins\org.apache.cordova.camera\www\Camera.js" archivePath="www\plugins\org.apache.cordova.camera\www\Camera.js" lastWriteTime="20/02/2014 9:30:33" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\www\plugins\org.apache.cordova.camera\www\CameraConstants.js" archivePath="www\plugins\org.apache.cordova.camera\www\CameraConstants.js" lastWriteTime="20/02/2014 9:30:33" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\www\plugins\org.apache.cordova.camera\www\CameraPopoverHandle.js" archivePath="www\plugins\org.apache.cordova.camera\www\CameraPopoverHandle.js" lastWriteTime="20/02/2014 9:30:33" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\www\plugins\org.apache.cordova.camera\www\CameraPopoverOptions.js" archivePath="www\plugins\org.apache.cordova.camera\www\CameraPopoverOptions.js" lastWriteTime="20/02/2014 9:30:33" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="20/02/2014 9:47:33" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Bin\Release\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="20/02/2014 9:14:27" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Bin\Release\Background.png" archivePath="Background.png" lastWriteTime="20/02/2014 9:14:27" />
+  <file source="C:\Users\Ruben\Desarrollos\demo-phonegap-UPM\platforms\wp8\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="20/02/2014 9:47:33" />
+</xapCache>

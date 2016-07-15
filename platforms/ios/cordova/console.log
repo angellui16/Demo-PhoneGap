@@ -1,0 +1,9 @@
+objc[62472]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-02-20 02:16:09.682 Demo Phonegap UPM[62472:80b] Cannot find executable for CFBundle 0xa76bc80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-02-20 02:16:09.708 Demo Phonegap UPM[62472:80b] Cannot find executable for CFBundle 0xa6aeaf0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-02-20 02:16:09.773 Demo Phonegap UPM[62472:80b] Multi-tasking -> Device: YES, App: YES
+2014-02-20 02:16:09.784 Demo Phonegap UPM[62472:80b] Unlimited access to network resources
+2014-02-20 02:16:10.091 Demo Phonegap UPM[62472:80b] Resetting plugins due to page load.
+2014-02-20 02:16:10.274 Demo Phonegap UPM[62472:80b] Finished load of: file:///Users/raguilera82/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/AEC6CDC9-4B73-4865-8F3F-7B831A78D2FF/Demo%20Phonegap%20UPM.app/www/index.html
+2014-02-20 02:16:13.717 Demo Phonegap UPM[62472:80b] THREAD WARNING: ['Camera'] took '86.576904' ms. Plugin should use a background thread.
+2014-02-20 08:08:15.263 Demo Phonegap UPM[62472:80b] THREAD WARNING: ['Camera'] took '152.658936' ms. Plugin should use a background thread.
